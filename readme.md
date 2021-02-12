@@ -1,6 +1,12 @@
 *Tea recipe is given in detail*
 
-tea\ingredients.md
+**Ingredients:**
+
+Tea leaves or tea powder
+milk
+sugar
+water
+natural herbs like tulasi, ginger, cinammon(optional)
 
 **Tea recipe for two persons**
 
